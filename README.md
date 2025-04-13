@@ -1,7 +1,3 @@
-Here’s the updated README without the `.gitignore` section:
-
----
-
 # Power Systems Assignment
 
 This repository contains the implementation of various numerical methods for solving power systems problems. The main methods included are **Gauss-Seidel** and **Newton-Raphson**, which are commonly used to solve power flow problems in electrical power systems. The repository also includes the relevant data files for a 14-bus power system and other auxiliary functions.
@@ -61,7 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The methods and data used in this assignment are commonly found in power systems textbooks and research articles.
 - Thanks to the open-source community for their contributions to MATLAB and Octave.
-
----
-
-This version should work well for your repository. Let me know if you need further modifications!
